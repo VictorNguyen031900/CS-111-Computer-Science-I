@@ -1,4 +1,4 @@
-# CS111-Computer-Science-I
+# CS-111-Computer-Science-I
 
 Taken: Fall 2018
 
